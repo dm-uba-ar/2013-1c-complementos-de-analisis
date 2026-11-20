@@ -1,10 +1,5 @@
 # Complementos de Análisis — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** María Gabriela Armentano
-- **Clases prácticas:** Susana Tesauri
-
 ## Prácticas
 
 - [Práctica 0](practica0-2013.pdf)
@@ -18,13 +13,6 @@
 - [Práctica 8](practica8-2013.pdf)
 - [Práctica 9](practica9-2013.pdf)
 - [Práctica 10](practica10-2013.pdf)
-
-## Bibliografía
-
-- Bibliografía Principal:
-- Primer parte (una variable)
-- NORIEGA, R. : Cálculo Diferencial e Integral. Editorial Docencia
-- SPIEGEL, MURRAY R. : Cálculo Superior. Serie Schaum
 
 ## Página original
 
